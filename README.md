@@ -17,8 +17,6 @@ Scores are added to a scoreboard and the top 5 are displayed.
 Root folder
 - requirements.txt = edited to include this projects requirements
 - .gitignore = edited to include api_key.txt
-
-Assignment-2/
 - README.md = _This file!_ ☺️
 - main.py = _Main game code_
 - art.py = _ASCII logo art_
