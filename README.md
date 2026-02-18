@@ -41,7 +41,7 @@ To install them, run:
 - Get an API account (it's free but needs to be email verified)
 - Continue to create api account, url doesn't matter here
 - Once registered you'll get your API key
-- Create a file called `api_key.txt` in the assignment-2 folder.
+- Create a file called `api_key.txt` in the root folder.
 - Place your API key in this file. (just the key)
 - The key is read in `main.py` here:
 `with open("api_key.txt") as key:
